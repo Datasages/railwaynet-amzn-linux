@@ -1,5 +1,5 @@
-Amazon Linux Image modified to permit username and password login via console and ssh
+#Amazon Linux Image modified to permit username and password login via console and ssh
 
-Accounts:
-root/railwaynet
-ec2-user/railwaynet
+##Accounts:
+1. **root**/_railwaynet_
+2. **ec2-user**/_railwaynet_
